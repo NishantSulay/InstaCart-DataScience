@@ -1,7 +1,7 @@
 # InstaCart-DataScience
 
 # Objective
-The goal of this case study is to predict items that a user would reorder based on the user's past order history. 
+The goal of this case study is to predict items that a user would reorder based on the user's order history. 
 
 
 
